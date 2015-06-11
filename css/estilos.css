@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+#titulo
+{background:#39F; color:#FF0}
+#paginainicio
+{background:#0F0}
+#imagen
+{color:#AA3F55}
+#nombre
+{color:#FF0;size:3;text-align:justify;background:#2A3F00;width:98%; margin:1%}
+#introducciongoku
+{color:#FFF;size:3;text-align:justify;background:#2A3F00;width:98%; margin:1%}
+#introduccionhistoria
+{color:#FFF;size:3;text-align:justify;background:#2F4F4F;width:98%; margin:1%}
+#introduccionseries
+{color:#FFF;size:3;text-align:justify;background:#005;width:98%; margin:1%}
+#introduccionpeliculas
+{color:#EEE;size:3;text-align:justify;background:#333;width:98%; margin:1%}
+#introduccionjuegos
+{color:#FFF;size:3;text-align:justify;background:#063;width:98%; margin:1%}
+#introduccionenciclo
+{color:#FFF;size:3;text-align:justify;background:#630;width:98%; margin:1%}
+#introduccionmangas
+{color:#DDD;size:3;text-align:justify;background:#888;width:98%; margin:1%}
+#introduccioncreadores
+{color:#FFFBF0;size:3;text-align:justify;background:#E00;width:98%; margin:1%}
+#introduccioninicio
+{color:#f06;size:3;text-align:justify;background:#555FFF;width:98%; margin:1%}
+#introducciondragonseries
+{color:#FF0;size:3;text-align:justify;background:#000;width:98%; margin:1%}
+#introduccionhistoria
+{color:#FFFBF0;size:3;text-align:justify;background:#2A3F00;width:98%; margin:1%}
+#introduccionpelix
+{color:#00A;size:3;text-align:justify;background:#FF0;width:98%; margin:1%}
+#introduccionjuegoo
+{color:#AADFFF;size:3;text-align:justify;background:#AA1F00;width:98%; margin:1%}
+#introduccionpersonal
+{color:#AADFFF;size:3;text-align:justify;background:#AA1F00;width:98%; margin:1%}
+#introduccionmessi
+{color:#CF0;size:3;text-align:justify;background:#90C;width:98%; margin:1%}
+#introduccioncreador
+{color:#EEE;size:3;text-align:justify;background:#008;width:98%; margin:1%}
